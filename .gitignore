@@ -5,3 +5,8 @@
 *.fls
 *.log
 *.synctex.gz
+.ipynb_checkpoints/
+writingPrompts/
+writingPrompts.tar.gz
+figures/
+cogsci-template/
