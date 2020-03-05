@@ -1,6 +1,9 @@
 COS 360: Computational Models of Cognition
+
 Princeton University, Fall 2019
+
 Michael Hu
+
 Advisor: [Tom Griffiths](http://cocosci.princeton.edu/tom/index.php "Tom's Homepage")
 
 ## Introduction
